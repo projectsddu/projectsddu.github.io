@@ -1,6 +1,7 @@
 ## SocialHub Docs
 
-You can use the [editor on GitHub](https://github.com/projectsddu/projectsddu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+SocialHub is a social media website developed by Gandhi Jenil and Gandevia Keval under the subject of Software engineering Principles and Practices &
+Software project-1.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
