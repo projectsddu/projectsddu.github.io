@@ -1,8 +1,9 @@
-## SocialHub Docs
+## Introduction
 
 SocialHub is a social media website developed by Gandhi Jenil and Gandevia Keval under the subject of Software engineering Principles and Practices &
 Software project-1.
 
+## Read out docs over here:
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Below are the documents made for the project developemnt
